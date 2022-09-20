@@ -74,6 +74,22 @@ Please access the project documentation below:
 --------------------------------------------------------
 
 --------------------------------------------------------                         
-4. Student Login Details :
+3. Students Login Details :
+  > Grade 8 student
+  - UserID  :18003
+  - Password : 12345
+
+  > Grade 9 student
+  - UserID  :18000
+  - Password : 12345
+  
+  > Grade 10 student
+  - UserID  :18001
+  - Password : 12345
+  
+  > Grade 11 student
+  - UserID  :18008
+  - Password : 12345
+
 --------------------------------------------------------
 
