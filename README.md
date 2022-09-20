@@ -6,8 +6,9 @@ The aim of this project is to facilitate the education process easier between te
 Please access the project documentation below:
 
 # Project Developer Details
-* Names     : Kefuoe Sole
-* Student at: Botho University 
+- Names     : Kefuoe Sole
+- Student at: Botho University 
+- Major     : BSc in Computing (Software Engineering & Network and Infrastructure Management)
 
 # Technologies used in this Wep App
 - HTML
