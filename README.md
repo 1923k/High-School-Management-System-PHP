@@ -34,10 +34,10 @@ Please access the project documentation below:
 2. After registration, now can login in with your user ID and password
 
 # Already Existing Users You can user to go through the application
-- Feel free to use the existing users beloww. You can also register your self through admin page
+  Feel free to use the existing users beloww. You can also register your self through admin page
 
 -------------------------------------------------------
-1. Admin / Head-Master login Details:
+1. # Admin / Head-Master login Details:
    * Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
   > Admin Login Details
   - UserID : 1000
