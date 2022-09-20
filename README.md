@@ -51,11 +51,25 @@ Please access the project documentation below:
   - UserID  :1402
   - Password : 12345
   - Subject Code : *0180*
+  - Subject Name: Biology
 
   > Grade 10 Teacher 
   - UserID  :1403
   - Password : 12345
   - Subject Code: *0289*
+  - Subject Name: English Language
+
+  > Grade 9 Teacher 
+  - UserID  :1408
+  - Password : 12345
+  - Subject Code: *0333*
+  - Subject Name: Mathematics
+
+  > Grade 8 Teacher 
+  - UserID  :1401
+  - Password : 12345
+  - Subject Code: *0487*
+  - Subject Name: Accounting
 
 --------------------------------------------------------
 
