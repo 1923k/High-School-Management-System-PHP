@@ -45,7 +45,7 @@ Please access the project documentation below:
 
 --------------------------------------------------------
 2. Teachers Login Details: 
-   Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
+   * Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
   > Grade 11 Teacher 
   - UserID  :1402
   - Password : 12345
