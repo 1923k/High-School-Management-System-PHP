@@ -29,25 +29,23 @@ Please access the project documentation below:
 - Framework(Bootstrap)
 - XAMMP
 
-# Project Requirements
-  Please follow the below processes accordingly
-1. Download and install XAMMP Server here --> https://www.apachefriends.org/download.html
-
 # How To Run The Application
 1. Must first be registered user by Admin or Head-Master
 2. After registration, now can login in with your user ID and password
 
 # Already Existing Users You can user to go through the application
-In this application, both Admin and Head-Matter are given save previlege. 
+- Feel free to use the existing users beloww. You can also register your self through admin page
+
 -------------------------------------------------------
 1. Admin / Head-Master login Details:
   - UserID : 1000
   - Password: 12345
-  
+  Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
 --------------------------------------------------------
 
 --------------------------------------------------------
 2. Teachers Login Details: 
+   Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
   > Grade 11 Teacher 
   - UserID  :1402
   - Password : 12345
@@ -76,6 +74,7 @@ In this application, both Admin and Head-Matter are given save previlege.
 
 --------------------------------------------------------                         
 3. Students Login Details :
+  Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
   > Grade 8 student
   - UserID  :18003
   - Password : 12345
