@@ -28,7 +28,12 @@ Please access the project documentation below:
 - Framework(Bootstrap)
 - XAMMP
 
-# How To Run The Application ?
-Please follow the bellow processes accordingly
-- 
+# Project Requirements
+  Please follow the below processes accordingly
+1. Download and install XAMMP Server here --> https://www.apachefriends.org/download.html
+
+# How To Run The Application
+1. Must first be registered user by Admin or Head-Master
+2. After registration, now can login in with your user ID and password
+
 
