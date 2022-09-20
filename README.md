@@ -21,4 +21,9 @@ Please access the project documentation below:
 - PHP
 - JavaScript
 - Framework(Bootstrap)
+- XAMMP
+
+# How To Run The Application ?
+Please follow the bellow processes accordingly
+- 
 
