@@ -5,6 +5,11 @@ This is repo is for high school management system and is developed in PHP
 The aim of this project is to facilitate the education process easier between teachers and students. It is an *Online* learning platform that enables learning process more eaiser and user friendly while at in remote areas.
 
 - Project Link : (https://studentlearn.epizy.com/)
+# Notice !!!
+- This project is still under development👨‍💻.
+- Don't be suprised by continious change along the way.
+- Please feel free to naviagte through it in the provided link above.
+- Please conduct the developer for more details in a given email below
 
 Please access the project documentation below:
 
