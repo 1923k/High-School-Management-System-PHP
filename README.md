@@ -10,6 +10,7 @@ The aim of this project is to facilitate the education process easier between te
 - Don't be suprised by continious change along the way.
 - Please feel free to naviagte through it in the provided link above.
 - Please conduct the developer for more details in a given email below
+* It is highly compatiable with a Laptop or Desktop. But you still your smartphone
 
 Please access the project documentation below:
 
