@@ -42,10 +42,21 @@ Please access the project documentation below:
 1. Admin / Head-Master login Details:
   - UserID : 1000
   - Password: 12345
+  
 --------------------------------------------------------
 
 --------------------------------------------------------
 2. Teachers Login Details: 
+  > Grade 11 Teacher 
+  - UserID  :1402
+  - Password : 12345
+  - Subject Code : *0180*
+
+  > Grade 10 Teacher 
+  - UserID  :1403
+  - Password : 12345
+  - Subject Code: *0289*
+
 --------------------------------------------------------
 
 --------------------------------------------------------                         
