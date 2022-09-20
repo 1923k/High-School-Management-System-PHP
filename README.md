@@ -38,10 +38,11 @@ Please access the project documentation below:
 2. After registration, now can login in with your user ID and password
 
 # Already Existing Users You can user to go through the application
-1. # Admin / Head-Master login Details:
+-------------------------------------------------------
+1. Admin / Head-Master login Details:
   - UserID : 1000
   - Password: 12345
-                                     
+--------------------------------------------------------                                 
 2. Teachers Login Details: 
                            
 4. Student Login Details :
