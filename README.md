@@ -15,6 +15,7 @@ Please access the project documentation below:
 
 # Project Developer Details
 - Names     : Kefuoe Sole
+- Gender    : Male
 - Student at: Botho University 
 - Major     : BSc in Computing (Software Engineering & Network and Infrastructure Management)
 - Email     : soolekefuoe2@gmail.com
