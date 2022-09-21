@@ -14,7 +14,7 @@ The aim of this project is to facilitate the education process easier between te
   Feel free to use the existing users below. You can also register your self through admin page
 
 -------------------------------------------------------
-#1. Admin / Head-Master login Details:
+# 1. Admin / Head-Master login Details:
    * Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
   > Admin Login Details
   - UserID : 1000
@@ -23,7 +23,7 @@ The aim of this project is to facilitate the education process easier between te
 --------------------------------------------------------
 
 --------------------------------------------------------
-#2. Teachers Login Details: 
+# 2. Teachers Login Details: 
    * Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
   > Grade 11 Teacher 
   - UserID  :1402
@@ -52,7 +52,7 @@ The aim of this project is to facilitate the education process easier between te
 --------------------------------------------------------
 
 --------------------------------------------------------                         
-#3. Students Login Details :
+# 3. Students Login Details :
    * Notice !!! .....Please Don't Edit All users Login Details. Leave them as they are.
   > Grade 8 student
   - UserID  :18003
